@@ -1,0 +1,6 @@
+Oyunda bir oyuncu karakteri (♦) ve bir çıkış (▲) bulunuyor.
+Oyuncu karakterini W, A, S, D tuşları ile kontrol edebilirsiniz.
+Oyuncu labirentin içerisinde dolaşırken labirent duvarlarını ve yollarını görebilirsiniz (görünmez modu etkinleştirebilirsiniz).
+Labirent üzerinde hareket ederken karakterinizin gerisinde bıraktığı yolları gösteren noktalar görünür olabilir (noktaları görünmez modu etkinleştirerek kapatabilirsiniz).
+Labirent içerisinde hareket ederken, "Sıcak" ve "Soğuk" yazıları, oyuncunun konumuna göre belirli bir bölgede mi yoksa dışında mı olduğunu gösterir (sıcak ve soğuk bölgeleri belirtir).
+Arka plan rengi, oyun seviyesine göre değişir (ilk 30 seviye yeşil, 30-70 seviyeler arasında pembe, 70+ seviyeler koyu kırmızı arka plana sahiptir).
