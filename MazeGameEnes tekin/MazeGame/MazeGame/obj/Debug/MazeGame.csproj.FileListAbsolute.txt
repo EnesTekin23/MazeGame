@@ -1,0 +1,7 @@
+C:\Users\St\Desktop\MazeGameEnes tekin\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+C:\Users\St\Desktop\MazeGameEnes tekin\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+C:\Users\St\Desktop\MazeGameEnes tekin\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+C:\Users\St\Desktop\MazeGameEnes tekin\MazeGame\MazeGame\obj\Debug\MazeGame.csprojAssemblyReference.cache
+C:\Users\St\Desktop\MazeGameEnes tekin\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\St\Desktop\MazeGameEnes tekin\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+C:\Users\St\Desktop\MazeGameEnes tekin\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
